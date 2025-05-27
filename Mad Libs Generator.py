@@ -3,7 +3,7 @@
 #Loop back to this point once code finishes
 loop = 1
 while (loop < 10):
-# Taking user input
+# Taking user input.
     noun = input("Choose a noun: ")
     p_noun = input("Choose a plural noun: ")
     noun2 = input("Choose a noun: ")
