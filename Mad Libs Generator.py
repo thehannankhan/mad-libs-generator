@@ -10,7 +10,7 @@ while (loop < 10):
     place = input("Name a place: ")
     adjective = input("Choose an adjective (Describing word): ")
     noun3 = input("Choose a noun: ")
-# Displays the story based on the users input
+# Displays the story based on the users input.
     print ("------------------------------------------")
     print ("Be kind to your",noun,"- footed", p_noun)
     print ("For a duck may be somebody's", noun2,",")
