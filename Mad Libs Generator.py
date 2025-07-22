@@ -1,6 +1,6 @@
 # ------  Mad Libs Generator ------ 
 
-#Loop back to this point once code finishes
+#Loop back to this point once code finishes.
 loop = 1
 while (loop < 10):
 # Taking user input.
