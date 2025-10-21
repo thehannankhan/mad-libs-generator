@@ -1,6 +1,6 @@
 # ------  Mad Libs Generator ------ 
 
-#Loop back to this point once code finishes.
+#Loop back to this point once code finishes
 loop = 1
 while (loop < 10):
 # Taking user input
@@ -22,3 +22,4 @@ while (loop < 10):
     print ("------------------------------------------")
 # Loop back to "loop = 1"
     loop = loop + 1
+
